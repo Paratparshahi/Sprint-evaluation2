@@ -9,7 +9,6 @@ function App() {
       <button  data-testid = 'sort-asc-btn'>Sort by Asc</button>
       <button  data-testid = 'sort-desc-btn'>Sort by Desc</button>
       {/*  map through the users data and pass props to the Userdetails component */}
-      
     </div>
   );
 }
